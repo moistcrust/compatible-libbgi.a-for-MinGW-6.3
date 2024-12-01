@@ -14,4 +14,4 @@ The goal of this project is to make **BGI graphics** available for modern develo
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/moistcrust/libbgi-for-mingw.git
+   git clone https://github.com/moistcrust/compatible-libbgi.a-for-MinGW-6.3.git
