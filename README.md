@@ -4,7 +4,7 @@ This repository contains a **fixed version of libbgi** (Borland Graphics Interfa
 
 ### Features:
 - Provides compatibility for **BGI graphics** functions such as `initgraph()`, `circle()`, `line()`, etc.
-- Specifically designed to work with **MinGW 6.3** and later versions on Windows.
+- Specifically designed to work with **MinGW 6.3** on Windows.
 - Includes necessary headers (`graphics.h`, `winbgim.h`) and a fixed static library (`libbgi.a`) to support graphics programming.
 
 ### Purpose:
